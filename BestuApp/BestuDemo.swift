@@ -18,6 +18,8 @@ struct BestuDemo: View {
             self.oddEven = "Even"
         }else{
             self.oddEven = "Odd"
+            
+            
         }
         
     }
